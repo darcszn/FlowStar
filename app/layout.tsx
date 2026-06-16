@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Cascade — Real-time token streaming on Stellar',
+  title: 'FlowStar — Real-time token streaming on Stellar',
   description:
     'Stream tokens by the second on Stellar. Create vesting schedules, payroll, and grants that unlock continuously — withdraw anytime, cancel anytime.',
   generator: 'v0.app',

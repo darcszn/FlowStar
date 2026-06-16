@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { Waves } from 'lucide-react'
 import { cn } from '@/lib/utils'
 
-export const APP_NAME = 'Cascade'
+export const APP_NAME = 'FlowStar'
 
 interface BrandProps {
   href?: string

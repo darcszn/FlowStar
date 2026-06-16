@@ -52,7 +52,7 @@ export function Hero() {
             Stream money by the second
           </h1>
           <p className="mt-5 max-w-md text-pretty text-lg leading-relaxed text-muted-foreground">
-            Cascade turns one-time transfers into continuous streams. Perfect
+            FlowStar turns one-time transfers into continuous streams. Perfect
             for payroll, token vesting, and grants that unlock in real time —
             withdraw anytime, cancel anytime.
           </p>

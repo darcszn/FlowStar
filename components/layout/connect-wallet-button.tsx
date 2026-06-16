@@ -95,7 +95,7 @@ export function ConnectWalletButton({ className }: { className?: string }) {
           <DialogTitle>Connect a wallet</DialogTitle>
           <DialogDescription>
             Choose a Stellar wallet to continue. You&apos;ll sign transactions
-            from your wallet — Cascade never holds your keys.
+            from your wallet — FlowStar never holds your keys.
           </DialogDescription>
         </DialogHeader>
         <div className="grid gap-2 pt-2">

@@ -22,7 +22,7 @@ const FEATURES = [
   {
     icon: ShieldCheck,
     title: 'Non-custodial',
-    body: 'Streams live in a Soroban smart contract. Cascade never holds your keys or your tokens — you sign every action from your wallet.',
+    body: 'Streams live in a Soroban smart contract. FlowStar never holds your keys or your tokens — you sign every action from your wallet.',
   },
   {
     icon: Hourglass,
@@ -63,7 +63,7 @@ const STEPS = [
   {
     step: '01',
     title: 'Connect your wallet',
-    body: 'Sign in with Freighter, xBull, LOBSTR, or Albedo. Cascade reads your address — nothing more.',
+    body: 'Sign in with Freighter, xBull, LOBSTR, or Albedo. FlowStar reads your address — nothing more.',
   },
   {
     step: '02',
@@ -81,7 +81,7 @@ export function Features() {
   return (
     <section id="features" className="mx-auto max-w-6xl px-4 py-20 sm:px-6">
       <div className="max-w-2xl">
-        <p className="text-sm font-medium text-primary">Why Cascade</p>
+        <p className="text-sm font-medium text-primary">Why FlowStar</p>
         <h2 className="mt-3 text-balance text-3xl font-semibold tracking-tight sm:text-4xl">
           Programmable money that moves continuously
         </h2>
